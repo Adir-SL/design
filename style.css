@@ -1,3 +1,15 @@
 body{
-    background-color: #000000;
+    font-family: 'Inter', sans-serif;
+}
+.button{
+    font-size: 1.5rem;
+    display: inline-flex;
+    padding: 0.75rem 2rem;
+    border-radius: 0.75rem;
+    background: var(--accent, #FF73F1);
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--light, #FFF);
+    font-weight: 700;
 }
