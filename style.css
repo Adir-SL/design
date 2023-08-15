@@ -17,6 +17,6 @@
     top: 0;
     background-image: url(images/Adir-hero.svg);
     background-size: contain;
-    background-position: center;
+    background-position: top center;
     background-repeat: no-repeat;
 }
