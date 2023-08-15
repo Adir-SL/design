@@ -10,4 +10,9 @@
     left: 0;
 }
 
-#hero{}
+#hero{
+    position: sticky;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+}
