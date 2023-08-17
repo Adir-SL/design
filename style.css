@@ -13,7 +13,7 @@ section{
 }
 #hero-section{
     position: sticky;
-    top: 0;
+    top: -32vw;
     background-image: url(images/Adir-hero.svg);
     background-size: contain;
     background-position: top center;
