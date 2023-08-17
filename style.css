@@ -7,10 +7,12 @@
     top: 0;
     left: 0;
 }
-#hero-section{
-    position: sticky;
+section{
     width: 100%;
     height: 100vh;
+}
+#hero-section{
+    position: sticky;
     top: 0;
     background-image: url(images/Adir-hero.svg);
     background-size: contain;
