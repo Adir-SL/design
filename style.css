@@ -9,6 +9,7 @@ body{
     margin: 0;
     top: 0;
     left: 0;
+    background-color: white;
     overflow: auto;
 }
 section{
@@ -25,5 +26,7 @@ section{
 }
 
 @media (prefers-color-scheme: dark) {
-    #wrapper{}
+    #wrapper{
+        filter: invert(100%);
+    }
 }
