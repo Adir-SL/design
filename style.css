@@ -23,3 +23,7 @@ section{
     background-position: top center;
     background-repeat: no-repeat;
 }
+
+@media (prefers-color-scheme: dark) {
+    #wrapper{}
+}
