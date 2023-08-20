@@ -27,7 +27,7 @@ section{
     transition: transform 150ms linear 0s;
 }
 .sticked{
-    transform: scale(0.6) translateY(-40%);
+    transform: translateY(-8vw) scale(0.6);
 }
 
 @media (prefers-color-scheme: dark) {
