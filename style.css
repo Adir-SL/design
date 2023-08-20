@@ -24,6 +24,9 @@ section{
     background-position: top center;
     background-repeat: no-repeat;
 }
+.sticked{
+    
+}
 
 @media (prefers-color-scheme: dark) {
     #wrapper{
