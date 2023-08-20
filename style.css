@@ -25,7 +25,7 @@ section{
     background-repeat: no-repeat;
 }
 .sticked{
-    transform-origin: bottom center;
+    transform-origin: bottom right;
     transform: scale(0.6) translateY(-40%);
 }
 
