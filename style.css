@@ -24,7 +24,7 @@ section{
     background-position: top center;
     background-repeat: no-repeat;
     transform-origin: bottom right;
-    transition: transform 300ms ease-in-out 0s;
+    transition: transform 300ms linear 0s;
 }
 .sticked{
     transform: scale(0.6) translateY(-40%);
