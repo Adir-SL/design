@@ -26,7 +26,7 @@ section{
 }
 .sticked{
     transform-origin: bottom center;
-    transform: scale(0.5);
+    transform: scale(0.6);
 }
 
 @media (prefers-color-scheme: dark) {
