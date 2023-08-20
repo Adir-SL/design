@@ -25,7 +25,8 @@ section{
     background-repeat: no-repeat;
 }
 .sticked{
-    
+    transform-origin: bottom center;
+    transform: scale(0.5);
 }
 
 @media (prefers-color-scheme: dark) {
