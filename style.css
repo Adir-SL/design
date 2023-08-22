@@ -17,8 +17,6 @@ section{
     min-height: 100vh;
 }
 #hero-section{
-    position: sticky;
-    top: -32vw;
     /* background-image: url(images/Adir-hero.svg); */
     background-size: contain;
     background-position: top center;
@@ -40,6 +38,8 @@ h1{
     text-align: right;
     font-family: 'Inter', sans-serif;
     font-weight: 100;
+    position: sticky;
+    top: 0;
 }
 .sticked{
     transform: scale(0.6) translateY(-10vw);
