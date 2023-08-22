@@ -19,12 +19,17 @@ section{
 #hero-section{
     position: sticky;
     top: -32vw;
-    background-image: url(images/Adir-hero.svg);
+    /* background-image: url(images/Adir-hero.svg); */
     background-size: contain;
     background-position: top center;
     background-repeat: no-repeat;
     transform-origin: bottom right;
     transition: transform 150ms linear 0s;
+}
+#hero-section svg{
+    padding: 40px;
+    width: calc(100% - 80px);
+    height: auto;
 }
 .sticked{
     transform: scale(0.6) translateY(-10vw);
