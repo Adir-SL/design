@@ -31,6 +31,14 @@ section{
     width: calc(100% - 80px);
     height: auto;
 }
+h1{
+    padding: 40px;
+    padding-bottom: 0;
+    width: calc(100% - 80px);
+    margin: 0;
+    font-size: 20vw;
+    text-align: right;
+}
 .sticked{
     transform: scale(0.6) translateY(-10vw);
 }
