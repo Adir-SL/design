@@ -1,7 +1,7 @@
 function scrollFunc(){
-    if(document.getElementById("hero-section").offsetTop > 0){
-        document.getElementById("hero-section").classList.add('sticked');
+    if(document.getElementById("name-div").offsetTop > 0){
+        document.getElementById("name-div").classList.add('sticked');
     }else{
-        document.getElementById("hero-section").classList.remove('sticked');
+        document.getElementById("name-div").classList.remove('sticked');
     }
 }
