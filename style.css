@@ -16,14 +16,6 @@ section{
     width: 100%;
     min-height: 100vh;
 }
-#hero-section{
-    /* background-image: url(images/Adir-hero.svg); */
-    background-size: contain;
-    background-position: top center;
-    background-repeat: no-repeat;
-    transform-origin: bottom right;
-    transition: transform 150ms linear 0s;
-}
 svg{
     padding: 40px;
     width: calc(100% - 80px);
@@ -41,8 +33,12 @@ h1{
     position: sticky;
     top: 0;
 }
+#name-div{
+    transform-origin: right top;
+    transition: transform 150ms linear 0s;
+}
 .sticked{
-    transform: scale(0.6) translateY(-10vw);
+    transform: scale(0.5);
 }
 
 @media (prefers-color-scheme: dark) {
