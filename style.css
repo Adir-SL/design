@@ -24,7 +24,7 @@ section{
     transform-origin: bottom right;
     transition: transform 150ms linear 0s;
 }
-#hero-section svg{
+svg{
     padding: 40px;
     width: calc(100% - 80px);
     height: auto;
