@@ -38,6 +38,8 @@ h1{
     margin: 0;
     font-size: 20vw;
     text-align: right;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
 }
 .sticked{
     transform: scale(0.6) translateY(-10vw);
