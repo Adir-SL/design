@@ -29,7 +29,7 @@
     animation: radioBtnAnim 5000ms ease-in-out infinite;
 }
 @keyframes radioBtnAnim {
-    
+    /* Radio Btn Animation here */
 }
 
 @keyframes toggleRightAnim {
