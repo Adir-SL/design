@@ -1,6 +1,11 @@
 #Rectangle-2{
+    transform-box: fill-box;
     animation: toggleRightAnim 5000ms linear infinite;
 }
 @keyframes toggleRightAnim {
-    
+    0%{transform: translateX(0);}
+    10%{transform: translateX(120%);}
+    50%{transform: translateX(120%);}
+    60%{transform: translateX(0);}
+    100%{transform: translateX(0);}
 }
