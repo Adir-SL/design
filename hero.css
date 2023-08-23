@@ -16,6 +16,16 @@
     animation: toggleLeftAnim 5000ms ease-in-out infinite;
     animation-delay: -1000ms;
 }
+#Rectangle-2_3-bg{
+    transform-box: fill-box;
+    animation: toggleRightBGAnim 5000ms ease-in-out infinite;
+    animation-delay: -1000ms;
+}
+#Rectangle-2_4-bg{
+    transform-box: fill-box;
+    animation: toggleLeftBGAnim 5000ms ease-in-out infinite;
+    animation-delay: -1000ms;
+}
 @keyframes toggleRightAnim {
     0%{transform: translateX(0);}
     10%{transform: translateX(120%);}
