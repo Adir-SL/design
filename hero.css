@@ -9,7 +9,6 @@
 #Rectangle-2_3{
     transform-box: fill-box;
     animation: toggleRightAnim 5000ms ease-in-out infinite;
-    animation-delay: -1000ms;
 }
 #Rectangle-2_4{
     transform-box: fill-box;
@@ -19,7 +18,6 @@
 #Rectangle-2_3-bg{
     transform-box: fill-box;
     animation: toggleRightBGAnim 5000ms ease-in-out infinite;
-    animation-delay: -1000ms;
 }
 #Rectangle-2_4-bg{
     transform-box: fill-box;
