@@ -48,9 +48,9 @@
     100%{fill: white;}
 }
 @keyframes toggleLeftBGAnim {
-    0%{transform: translateX(0);}
-    30%{transform: translateX(0);}
-    40%{transform: translateX(-120%);}
-    90%{transform: translateX(-120%);}
-    100%{transform: translateX(0);}
+    0%{fill: black;}
+    30%{fill: black;}
+    40%{fill: white;}
+    90%{fill: white;}
+    100%{fill: black;}
 }
