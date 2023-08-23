@@ -24,6 +24,13 @@
     animation: toggleLeftBGAnim 5000ms ease-in-out infinite;
     animation-delay: -1000ms;
 }
+.radio{
+    transform-box: fill-box;
+    animation: radioBtnAnim 5000ms ease-in-out infinite;
+}
+@keyframes radioBtnAnim {
+    
+}
 @keyframes toggleRightAnim {
     0%{transform: translateX(0);}
     10%{transform: translateX(120%);}
