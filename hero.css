@@ -36,7 +36,11 @@
     animation: toggleGroupTextAnim 5000ms ease-in-out infinite;
 }
 @keyframes toggleGroupBGAnim{
-    0%{}
+    0%{stroke: white;}
+    10%{stroke: black;}
+    40%{stroke: black;}
+    50%{stroke: white;}
+    100%{stroke: white;}
 }
 @keyframes radioBtnAnim {
     /* Radio Btn Animation here */
