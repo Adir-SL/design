@@ -26,6 +26,7 @@
 }
 .radio{
     transform-box: fill-box;
+    transform-origin: center;
     animation: radioBtnAnim 5000ms ease-in-out infinite;
 }
 @keyframes radioBtnAnim {
