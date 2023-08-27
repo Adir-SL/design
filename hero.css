@@ -48,7 +48,7 @@
 }
 #Frame_38{
     transform-box: fill-box;
-    animation: chevNudgeAnim 5000ms ease-in-out infinite;
+    animation: chevNudgeAnim 5000ms cubic-bezier(.3,-0.73,.64,1.64) infinite;
 }
 @keyframes chevNudgeAnim{
     0%{transform: translateX(0);}
