@@ -38,7 +38,9 @@
 #selectedBG{
     animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
 }
-#Frame_59, #Frame_60, #Frame_61{}
+#Frame_59 rect, #Frame_60 rect, #Frame_61 rect{
+    animation: buttonToggleRectAnim 5000ms ease-in-out infinite;
+}
 @keyframes toggleGroupTextAnim{
     0%{stroke: black;}
     10%{stroke: white;}
