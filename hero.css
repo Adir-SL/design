@@ -38,14 +38,6 @@
 #selectedBG{
     animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
 }
-#Frame_13 path{
-    animation: toggleGroupTextAnim 5000ms ease-in-out infinite;
-    animation-delay: -2500ms !important;
-}
-#selected_13{
-    animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
-    animation-delay: -2500ms !important;
-}
 @keyframes toggleGroupTextAnim{
     0%{stroke: black;}
     10%{stroke: white;}
