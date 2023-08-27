@@ -45,6 +45,9 @@
     fill: black;
     animation: buttonTogglePathAnim 5000ms ease-in-out infinite;
 }
+#Frame_59 path{
+    fill: black !important;
+}
 #Frame_59 path, #Frame_59 rect{
     animation-delay: -2500ms;
 }
