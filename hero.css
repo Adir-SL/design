@@ -35,7 +35,7 @@
 #Frame_11 path{
     animation: toggleGroupTextAnim 5000ms ease-in-out infinite;
 }
-@keyframes toggleGroupBGAnim{
+@keyframes toggleGroupTextAnim{
     0%{stroke: white;}
     10%{stroke: black;}
     40%{stroke: black;}
