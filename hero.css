@@ -47,11 +47,11 @@
     animation: buttonTogglePathAnim 5000ms ease-in-out infinite;
 }
 @keyframes buttonToggleRectAnim {
-    0%{fill: black; stroke: white;}
-    10%{fill: white; stroke: black;}
-    50%{fill: white; stroke: black;}
-    60%{fill: black; stroke: white;}
-    100%{fill: black; stroke: white;}
+    0%{fill: black;}
+    10%{fill: white;}
+    50%{fill: white;}
+    60%{fill: black;}
+    100%{fill: black;}
 }
 @keyframes buttonTogglePathAnim {
     0%{fill: white;}
