@@ -17,14 +17,14 @@ section{
     min-height: 100vh;
 }
 svg{
-    padding: 40px;
-    width: calc(100% - 80px);
+    padding: 10px;
+    width: calc(100vw - 20px);
     height: auto;
 }
 h1{
-    padding: 40px;
+    padding: 10px;
     padding-bottom: 0;
-    width: calc(100% - 80px);
+    width: calc(100% - 20px);
     margin: 0;
     font-size: 20vw;
     text-align: right;
