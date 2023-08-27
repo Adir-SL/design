@@ -41,6 +41,9 @@
 #Frame_59 rect, #Frame_60 rect, #Frame_61 rect{
     animation: buttonToggleRectAnim 5000ms ease-in-out infinite;
 }
+#Frame_59 path, #Frame_60 path, #Frame_61 path{
+    animation: buttonToggleRectAnim 5000ms ease-in-out infinite;
+}
 @keyframes toggleGroupTextAnim{
     0%{stroke: black;}
     10%{stroke: white;}
