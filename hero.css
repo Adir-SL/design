@@ -38,7 +38,7 @@
 #selectedBG{
     animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
 }
-#Frame_15{
+#Frame_15 path{
     animation: toggleGroupTextAnim 5000ms ease-in-out infinite;
     animation-delay: -2000ms;
 }
