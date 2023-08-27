@@ -51,6 +51,13 @@
     60%{fill: black;}
     100%{fill: black;}
 }
+@keyframes buttonTogglePathAnim {
+    0%{fill: white;}
+    10%{fill: black;}
+    50%{fill: black;}
+    60%{fill: white;}
+    100%{fill: white;}
+}
 @keyframes toggleGroupTextAnim{
     0%{stroke: black;}
     10%{stroke: white;}
