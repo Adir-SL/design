@@ -52,6 +52,11 @@
 }
 @keyframes chevNudgeAnim{
     0%{transform: translateX(0);}
+    40%{transform: translateX(0);}
+    45%{transform: translateX(100%);}
+    50%{transform: translateX(50%);}
+    55%{transform: translateX(100%);}
+    60%{transform: translateX(0);}
     100%{transform: translateX(0);}
 }
 @keyframes buttonToggleRectAnim {
