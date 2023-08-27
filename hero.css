@@ -47,9 +47,12 @@
     animation: buttonTogglePathAnim 5000ms ease-in-out infinite;
 }
 #Frame_38{
+    transform-box: fill-box;
     animation: chevNudgeAnim 5000ms ease-in-out infinite;
 }
-@keyframes chevNudgeAnim{}
+@keyframes chevNudgeAnim{
+    0%{transform: translateX(0);}
+}
 @keyframes buttonToggleRectAnim {
     0%{fill: black;}
     10%{fill: white;}
