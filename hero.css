@@ -24,13 +24,13 @@
     animation: toggleLeftBGAnim 5000ms ease-in-out infinite;
     animation-delay: -1000ms;
 }
-#Rectangle-3_22{
-
-}
 .radio{
     transform-box: fill-box;
     transform-origin: center;
     animation: radioBtnAnim 5000ms ease-in-out infinite;
+}
+#Rectangle-3_22{
+    animation-delay: -1000ms;
 }
 @keyframes radioBtnAnim {
     /* Radio Btn Animation here */
