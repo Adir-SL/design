@@ -24,6 +24,9 @@
     animation: toggleLeftBGAnim 5000ms ease-in-out infinite;
     animation-delay: -1000ms;
 }
+#Rectangle-3_22{
+
+}
 .radio{
     transform-box: fill-box;
     transform-origin: center;
