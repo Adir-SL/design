@@ -27,7 +27,7 @@
 .radio{
     transform-box: fill-box;
     transform-origin: center;
-    animation: radioBtnAnim 5000ms ease-in-out infinite;
+    animation: radioBtnAnim 5000ms cubic-bezier(.32,-0.35,.67,1.26) infinite;
 }
 #Rectangle-3_22{
     animation-delay: -1000ms;
