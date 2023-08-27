@@ -42,7 +42,7 @@
     animation: buttonToggleRectAnim 5000ms ease-in-out infinite;
 }
 #Frame_59 path, #Frame_60 path, #Frame_61 path{
-    animation: buttonTogglePathAnim 5000ms ease-in-out infinite;
+    /* animation: buttonTogglePathAnim 5000ms ease-in-out infinite; */
 }
 @keyframes buttonToggleRectAnim {
     0%{fill: black;}
