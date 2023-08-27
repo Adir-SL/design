@@ -33,9 +33,11 @@
     animation-delay: -1000ms;
 }
 #Frame_11 path{
-    animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
+    animation: toggleGroupTextAnim 5000ms ease-in-out infinite;
 }
-@keyframes toggleGroupBGAnim{}
+@keyframes toggleGroupBGAnim{
+    0%{}
+}
 @keyframes radioBtnAnim {
     /* Radio Btn Animation here */
     0%{transform: scale(0);}
