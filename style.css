@@ -24,6 +24,7 @@ svg{
 h1{
     padding: 10px;
     padding-bottom: 0;
+    padding-top: 0;
     width: calc(100% - 20px);
     margin: 0;
     font-size: 20vw;
