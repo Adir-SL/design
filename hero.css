@@ -52,6 +52,8 @@
 }
 #Rectangle_18{
     stroke: black;
+}
+#Rectangle_18{
     animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
 }
 #Rectangle_19{
