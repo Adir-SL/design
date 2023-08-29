@@ -54,7 +54,7 @@
     stroke: black;
 }
 #Rectangle_14, #Rectangle_15, #Rectangle_16, #Rectangle_17, #Rectangle_18, #Rectangle_19{
-    animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
+    animation: galleryDotAnim 5000ms ease-in-out infinite;
 }
 #Rectangle_15{
     animation-delay: -750ms;
@@ -106,6 +106,13 @@
     10%{fill: black;}
     40%{fill: black;}
     50%{fill: white;}
+    100%{fill: white;}
+}
+@keyframes galleryDotAnim{
+    0%{fill: white;}
+    5%{fill: black;}
+    15%{fill: black;}
+    20%{fill: white;}
     100%{fill: white;}
 }
 @keyframes radioBtnAnim {
