@@ -56,6 +56,18 @@
 #Rectangle_14, #Rectangle_15, #Rectangle_16, #Rectangle_17, #Rectangle_18, #Rectangle_19{
     animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
 }
+#Rectangle_14{
+    animation-delay: 2500ms;
+}
+#Rectangle_15{
+    animation-delay: 2500ms;
+}
+#Rectangle_16{
+    animation-delay: 2500ms;
+}
+#Rectangle_17{
+    animation-delay: 2500ms;
+}
 #Rectangle_19{
     animation-delay: 2500ms;
 }
