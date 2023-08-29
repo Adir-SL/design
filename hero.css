@@ -53,11 +53,10 @@
 #Rectangle_18{
     stroke: black;
 }
-#Rectangle_18{
+#Rectangle_14, #Rectangle_14, #Rectangle_14, #Rectangle_14, #Rectangle_14, #Rectangle_14{
     animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
 }
 #Rectangle_19{
-    animation: toggleGroupBGAnim 5000ms ease-in-out infinite;
     animation-delay: 2500ms;
 }
 @keyframes chevNudgeAnim{
