@@ -76,7 +76,9 @@
 #step_3{
     animation: stepAnim 5000ms ease-in-out infinite;
 }
-#step_3_number{}
+#step_3_number{
+    animation: stepNumAnim 5000ms ease-in-out infinite;
+}
 @keyframes stepAnim{
     0%{fill: white;}
     40%{fill: white;}
