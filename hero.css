@@ -78,8 +78,8 @@
 }
 @keyframes stepAnim{
     0%{fill: white;}
-    20%{fill: white;}
-    30%{fill: black;}
+    40%{fill: white;}
+    50%{fill: black;}
     90%{fill: black;}
     100%{fill: white;}
 }
