@@ -109,11 +109,11 @@
     100%{fill: white;}
 }
 @keyframes galleryDotAnim{
-    0%{fill: white;}
-    2%{fill: black;}
-    15%{fill: black;}
-    17%{fill: white;}
-    100%{fill: white;}
+    0%{fill: white; transform: scale(1);}
+    2%{fill: black; transform: scale(1.1);}
+    15%{fill: black; transform: scale(1.1);}
+    17%{fill: white; transform: scale(1);}
+    100%{fill: white; transform: scale(1);}
 }
 @keyframes radioBtnAnim {
     /* Radio Btn Animation here */
