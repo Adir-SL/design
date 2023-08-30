@@ -55,6 +55,8 @@
 }
 #Rectangle_14, #Rectangle_15, #Rectangle_16, #Rectangle_17, #Rectangle_18, #Rectangle_19{
     animation: galleryDotAnim 5000ms ease-in-out infinite;
+    transform-origin: center;
+    transform-box: fill-box;
 }
 #Rectangle_14{
     animation-delay: -3750ms;
