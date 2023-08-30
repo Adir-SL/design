@@ -112,8 +112,8 @@
 }
 @keyframes galleryDotAnim{
     0%{fill: white; transform: scale(1);}
-    2%{fill: black; transform: scale(1.1);}
-    15%{fill: black; transform: scale(1.1);}
+    2%{fill: black; transform: scale(1.25);}
+    15%{fill: black; transform: scale(1.25);}
     17%{fill: white; transform: scale(1);}
     100%{fill: white; transform: scale(1);}
 }
