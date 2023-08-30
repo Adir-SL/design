@@ -57,7 +57,7 @@
     animation: galleryDotAnim 5000ms ease-in-out infinite;
 }
 #Rectangle_15{
-    animation-delay: 750ms;
+    animation-delay: -750ms;
 }
 #Rectangle_16{
     animation-delay: -1500ms;
