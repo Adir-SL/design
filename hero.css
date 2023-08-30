@@ -73,6 +73,9 @@
 #Rectangle_18{
     animation-delay: -750ms;
 }
+#step_3{
+    animation: stepAnim 5000ms ease-in-out infinite;
+}
 @keyframes chevNudgeAnim{
     0%{transform: translateX(0);}
     40%{transform: translateX(0);}
