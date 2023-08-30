@@ -110,9 +110,9 @@
 }
 @keyframes galleryDotAnim{
     0%{fill: white;}
-    5%{fill: black;}
+    2%{fill: black;}
     15%{fill: black;}
-    20%{fill: white;}
+    17%{fill: white;}
     100%{fill: white;}
 }
 @keyframes radioBtnAnim {
