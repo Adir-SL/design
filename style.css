@@ -52,6 +52,9 @@ h2{
 .sticked{
     transform: scale(0.3);
 }
+.sticked > h2{
+    opacity: 0;
+}
 
 @media (prefers-color-scheme: dark) {
     #wrapper{
