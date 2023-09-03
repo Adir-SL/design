@@ -46,6 +46,9 @@ h2{
     font-weight: 400;
     transition: opacity 150ms linear 0s, transform 150ms linear 0s;
 }
+#title-div{
+    transform-origin: right top;
+}
 #name-div{
     transform-origin: right top;
     transition: transform 150ms linear 0s;
