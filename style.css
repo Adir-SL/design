@@ -34,6 +34,17 @@ h1{
     position: sticky;
     top: 0;
 }
+h2{
+    padding: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: calc(100% - 20px);
+    margin: 0;
+    font-size: 6vw;
+    text-align: right;
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+}
 #name-div{
     transform-origin: right top;
     transition: transform 150ms linear 0s;
