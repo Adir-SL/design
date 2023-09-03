@@ -52,7 +52,7 @@ h2{
 .sticked{
     transform: scale(0.3);
 }
-.sticked > h2{
+.sticked ~ h2{
     opacity: 0;
 }
 
