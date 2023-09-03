@@ -1,2 +1,2 @@
 # design
-## Coming soo
+## Coming soon
