@@ -36,8 +36,9 @@ h1{
 }
 h2{
     padding: 0;
+    transform: translateY(-40%);
     padding-right: 10px;
-    width: calc(100% - 20px);
+    width: calc(100% - 10px);
     margin: 0;
     font-size: 6.3vw;
     text-align: right;
