@@ -44,6 +44,7 @@ h2{
     text-align: right;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
+    transition: opacity 150ms linear 0s;
 }
 #name-div{
     transform-origin: right top;
