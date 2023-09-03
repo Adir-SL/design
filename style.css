@@ -35,15 +35,14 @@ h1{
     top: 0;
 }
 h2{
-    padding: 10px;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding: 0;
+    padding-right: 10px;
     width: calc(100% - 20px);
     margin: 0;
-    font-size: 6vw;
+    font-size: 6.3vw;
     text-align: right;
     font-family: 'Inter', sans-serif;
-    font-weight: 100;
+    font-weight: 400;
 }
 #name-div{
     transform-origin: right top;
