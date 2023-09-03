@@ -47,7 +47,7 @@ h2{
     transition: opacity 150ms linear 0s, transform 150ms linear 0s;
 }
 #title-div{
-    transform-origin: right -200%;
+    transform-origin: right -250%;
 }
 #name-div{
     transform-origin: right top;
